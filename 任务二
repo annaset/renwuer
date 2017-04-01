@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+
+	<body>
+	</body>
+
+</html>
+<html>
+
+<head>
+	<title>
+		<h1>小莹的作业二</h1>
+	</title>
+	<style type="text/css">
+		p{
+			font-family: "Microsoft Yahei";
+			font-size: 16px;line-height:200% ;
+			text-indent:2em ;}
+	    div{
+			border: 2px solid gray;
+			margin-left:auto ;
+			margin-right:auto ;
+			
+		}
+		#box{height:100px;margin-bottom:20px ;background-color:black ;}
+		#box1{margin-bottom:30px ;}
+		#box2{margin-bottom:30px ;}
+		#box3{margin-bottom:30px ;}
+		#box4{margin-bottom:30px;padding-bottom: 20px;}
+		#box5{border: 1px solid gray;width:450px;padding-left:20px;padding-bottom:20px;margin-bottom:10px ;margin-left:5px;text-align:center ;}
+		.first {
+			font-size: 18px;
+			color: plum;
+		}                                                                                                                                                                                                       
+		
+		.second {
+			font-size: 16px;
+			background-color: paleturquoise;
+		}
+		span{font-family:"microsoft yahei";font-size:14px;}
+		.main{float:right ;list-style:none; margin-right:30px ;}
+		.input{background: blue;width: 300;height:10 ;text-align: center;font-size: 20px;}
+		.four{list-style:none ;}
+	</style>
+</head>
+<body>                                                                                                                                                        '''''''''                                                                                                                                                                                                      '
+	<div id="box">
+	<ul class="main">                                                                                                                                            
+		<li class="main">
+			<a href="www.baidu.com">导航链接四</a>
+		</li>
+		<li class="main">
+			<a href="www.wanzhuanyuncheng.com">导航链接三</a>
+		</li>
+		<li class="main">
+			<a href="www.taobao.com">导航链接二</a>
+		</li>
+		<li class="main"><a href="www.taobao.com">导航链接一</a></li>
+	</ul>
+	<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490872316356&di=be8b70f2d9f2f998e31bc3cae0f40511&imgtype=0&src=http%3A%2F%2Fpic.nipic.com%2F2008-01-15%2F2008115192148152_2.jpg"  width="150" height="50"/>
+	</div>
+<div id="box1">
+	<h1>小莹的作业二</h1><br />
+	<h2>文章二级标题</h2><br />
+		<span>文章作者&nbsp;&nbsp;文章发表时间</span><br /> 
+	<p>
+		如果没有遇见你，我会不会像薰衣草一样寂寞的等待。孤寂的身影贪婪的想念爱情，直到在忧郁中枯萎！<br /> 
+		如果没有遇见你，我会不会依然独自一个人寻着风的痕迹浪迹天涯，去我想去的所有地方，以留下我最孤独的灵魂！<br /> 
+		如果没有遇见你，我会不会依然是那个爱哭的孩子，在寂寥无声的黑夜，把<a href="http://ife.baidu.com">自己</a>裹在厚厚的哀愁里面，在酒精里沉醉哭泣！直至头痛欲裂，昏睡在心门之外！如果没有遇见你，我会不会找一个<strong>自己不爱的人</strong>虚伪着幸福，就这样在谎言里度过惨淡的一生，最后带着遗憾走进世界的尽头！<br />
+		<img src="http://img.mukewang.com/52da54ed0001ecfa04120172.jpg" /> <br />
+		如果没有遇见你，我会不会还是每天过着无聊的生活，上班，下班，沉醉。看日月交替，感叹时间的无情！如果没有遇见你，我会不会<strong>淡定的</strong>在午后对着阳光直至痛的泪流满面，困倦的闭上双眼带着疼痛和泪水微笑而眠！<br /> 如果没有遇见你，我会不会永远学不会什么是爱？永远不懂什么是情？在自己手中葬送着一份天真，埋葬着一段段深情！如果没有遇见你。我会不会依然躲在
+		<a href="https://www.baidu.com/baidu?tn=monline_3_dg&ie=utf-8&wd=%E5%AD%A4%E7%8B%AC" target="_blank">孤独</a>的角落里，依然在清晨第一缕阳光出现的时候才昏昏入睡！亲爱的！如果没有遇见你，我会不会依旧沉沦，悲怆的想象爱情的方向！
+	</p>
+	</div>
+<div id="box2">
+	<h1>胶版印刷中网点扩大的影响因素</h1><br />
+	<h2 class="first">印刷压力对网点扩大的影响</h2><br />
+		<span>文章作者&nbsp;&nbsp;文章发表时间</span><br /> 
+	<p>
+		这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+		<br /> 这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+		<br /> 这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的
+		<a href="http://ife.baidu.com">段落</a>，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的<strong>段落</strong>，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。<br />
+	</p>
+	<img src="http://img.mukewang.com/52da54ed0001ecfa04120172.jpg" />
+	<ul class="four">
+		<li>列表项目一</li>
+		<li>列表项目二</li>
+		<li>列表项目三</li>
+	</ul>
+</div>
+<div id="box3">
+	<h1>图片</h1>
+	<div id="box5">
+		好看的图片<br />
+		<img src="http://www.yh31.com/UploadFiles/PZSMK2/201601051933503054.jpg" /><br /> 
+	</div>
+	<div id="box5">
+		好看的图片
+		<br />
+		<img src="http://img.mukewang.com/52da54ed0001ecfa04120172.jpg" />
+	</div>
+</div>
+<div id="box4">
+	<h1>遇见你在最美的时光</h1>
+	<h2>你我的相遇</h2>
+	
+		<span>文章作者&nbsp;&nbsp;文章发表时间</span>
+	<p>
+		<ol>
+			<li>排名1</li>
+			<li>排名2</li>
+			<li>排名3</li>
+		</ol>
+	</p>
+	<table border="1" cellspacing="0" cellspacing="0"style="font-size: 18px;width: 1500px;height:50px ;margin: auto;">
+		<tr style="background:black ; color:white ;">
+			<th>表头</th>
+			<th>表头</th>
+			<th>表头</th>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr style="background: grey;">
+			<td>总计</td>
+			<td colspan="2">1000</td>
+		</tr>
+	</table>
+	</div>
+	<div>
+		<h1>爱运动欢迎您的加入！</h1>
+		<h2>用户注册</h2>
+		<form>
+			请输入邮箱地址：<input type="text" name="mail" value="这是一个文本框" />
+		</form><br /> 邮箱地址请按要求输入
+		<br />
+		<form>
+			请输入密码：<input type="password" name="pass" value="这是一个文本框" /> 请重复输入密码：
+			<input type="password" name="pass" value="这是一个文本框" />
+		</form><br /> 密码请为6-16位英文数字
+		<br />
+		<form class="second">
+			<label>性别：</label>
+			<label>男</label>
+			<input type="radio" value="男" name="fame" checked="checked" />
+			<label>女</label>
+			<input type="radio" value="女" name="fame" /><br />
+			<label>城市：</label>
+			<select>
+				<option value="北京" selected="selected">北京</option>
+				<option value="天津">天津</option>
+				<option value="上海">上海</option>
+			</select><br />
+			<label>爱好：</label>
+			<label>运动</label>
+			<input type="checkbox" value="运动" name="checkbox1" />
+			<label>艺术</label>
+			<input type="checkbox" value="艺术" name="checkbox2" checked="checked" />
+			<label>科学</label>
+			<input type="checkbox" value="科学" name="checkbox3" /> <br />
+			个人描述：
+			<textarea rows="5" cols="50">这是一个多行输入框，输入您的个人描述</textarea><br />
+		<div class="input">
+			<input type="submit" value="确定提交" style="font-size:20px ;color:white;background:none ;">
+		</div>
+		</form>
+	</div>
+</body>
+
+</html>
